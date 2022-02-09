@@ -7,6 +7,13 @@ h1{
     font-size: 30px;
     
 }
+.round-logos{
+    width: 50px;     
+    height: 50px;
+    object-fit: cover;
+    margin: auto;
+    
+}
 img{
     object-fit: cover;
     width: 200px;
@@ -15,6 +22,7 @@ img{
 }
 div{
     display: block;
+    text-align: center;
     
 }
 h2{
@@ -22,4 +30,8 @@ h2{
 }
 em{
     font-weight: 200;
+}
+a{
+    color: black;
+    
 }
