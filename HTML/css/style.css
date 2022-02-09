@@ -1,0 +1,25 @@
+body{
+    background-color: darkgrey;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+h1{
+    font-size: 30px;
+    
+}
+img{
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+    margin: auto;
+}
+div{
+    display: block;
+    
+}
+h2{
+    text-align: left;
+}
+em{
+    font-weight: 200;
+}
